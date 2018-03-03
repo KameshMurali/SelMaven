@@ -1,0 +1,44 @@
+2017-12-25 10:04:00,823 - LoginTestCase -INFO - Opened a Browser
+2017-12-25 10:04:00,966 - VerifyPageTitleTest -INFO - Verifying Browser
+2017-12-25 10:04:08,558 - LoginTestCase -INFO - Opened a Browser
+2017-12-25 10:11:14,752 - LoginTestCase -INFO - Opened a Browser
+2017-12-25 10:11:14,980 - VerifyPageTitleTest -INFO - Verifying Browser
+2017-12-29 09:22:34,033 - LoginTestCase -INFO - Opened a Browser
+v2017-12-29 09:22:34,298 - VerifyPageTitleTest -INFO - Verifying Browser
+v2018-01-01 22:36:29,746 - LoginTestCase -INFO - Opened a Browser
+v2018-01-01 22:36:30,246 - VerifyPageTitleTest -INFO - Verifying Browser
+v2018-01-02 00:59:23,639 - LoginTestCase -INFO - Opened a Browser
+v2018-01-02 00:59:24,079 - VerifyPageTitleTest -INFO - Verifying Browser
+v2018-01-20 00:55:37,172 - LoginTestCase -INFO - Opened a Browser
+v2018-01-20 00:55:37,613 - VerifyPageTitleTest -INFO - Verifying Browser
+v2018-01-20 01:03:03,757 - LoginTestCase -INFO - Opened a Browser
+v2018-01-20 01:03:03,897 - VerifyPageTitleTest -INFO - Verifying Browser
+v2018-01-20 01:11:11,240 - LoginTestCase -INFO - Opened a Browser
+v2018-01-20 01:11:11,395 - VerifyPageTitleTest -INFO - Verifying Browser
+v2018-01-20 01:17:17,105 - LoginTestCase -INFO - Opened a Browser
+v2018-01-20 01:17:17,411 - VerifyPageTitleTest -INFO - Verifying Browser
+v2018-01-20 13:28:24,014 - LoginTestCase -INFO - Opened a Browser
+v2018-01-20 13:28:24,555 - VerifyPageTitleTest -INFO - Verifying Browser
+v2018-01-20 13:33:11,049 - LoginTestCase -INFO - Opened a Browser
+v2018-01-20 13:33:11,209 - VerifyPageTitleTest -INFO - Verifying Browser
+v2018-01-20 14:00:00,397 - LoginTestCase -INFO - Opened a Browser
+v2018-01-20 14:00:00,397 - LoginTestCase -INFO - Opened a Browser
+v2018-01-20 14:00:00,921 - VerifyPageTitleTest -INFO - Verifying Browser
+v2018-01-20 14:00:00,923 - VerifyPageTitleTest -INFO - Verifying Browser
+v2018-01-20 15:55:24,002 - LoginTestCase -INFO - Opened a Browser
+v2018-01-20 15:55:24,345 - VerifyPageTitleTest -INFO - Verifying Browser
+v2018-03-03 13:28:27,817 - LoginTestCase -INFO - Opened a Browser
+v2018-03-03 13:28:28,004 - VerifyPageTitleTest -INFO - Verifying Browser
+v2018-03-03 13:46:14,801 - LoginTestCase -INFO - Opened a Browser
+v2018-03-03 15:50:40,676 - LoginTestCase -INFO - Opened a Browser
+v2018-03-03 15:52:53,438 - LoginTestCase -INFO - Opened a Browser
+v2018-03-03 16:07:23,311 - LoginTestCase -INFO - Opened a Browser
+v2018-03-03 16:07:23,399 - VerifyPageTitleTest -INFO - Verifying Browser
+v2018-03-03 17:17:37,089 - LoginTestCase -INFO - Opened a Browser
+v2018-03-03 17:26:35,848 - LoginTestCase -INFO - Opened a Browser
+v2018-03-03 17:27:43,180 - LoginTestCase -INFO - Opened a Browser
+v2018-03-03 19:17:52,893 - LoginTestCase -INFO - Opened a Browser
+v2018-03-03 19:17:52,992 - VerifyPageTitleTest -INFO - Verifying Browser
+v2018-03-03 19:48:15,447 - LoginTestCase -INFO - Opened a Browser
+v2018-03-03 19:48:15,487 - VerifyPageTitleTest -INFO - Verifying Browser
+v

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <listeners>
+    <listener class-name="Com.QA.ExtentsReports.ExtentReporterNG"/>
+    <listener class-name="Com.QA.ExtentsReports.Screenshot"/>
+  </listeners>
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="Com.QA.TestCases.LoginTestCase">
+        <methods>
+          <include name="CloseMethod"/>
+          <include name="setUp"/>
+          <include name="LoginTest"/>
+        </methods>
+      </class> <!-- Com.QA.TestCases.LoginTestCase -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
